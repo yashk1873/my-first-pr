@@ -83,6 +83,8 @@
 
 - [@Striker](https://github.com/Striker)
 
+- [@sagastha](https://github.com/sagastha)
+
 - [@hitanshu-mehta](https://github.com/hitanshu-mehta)
 
 - [@rutvijraut](https://github.com/rutvijraut)
