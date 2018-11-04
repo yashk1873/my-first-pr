@@ -83,6 +83,8 @@
 
 - [@Striker](https://github.com/Striker)
 
+- [@sagastha](https://github.com/sagastha)
+
 - [@hitanshu-mehta](https://github.com/hitanshu-mehta)
 
 - [@rutvijraut](https://github.com/rutvijraut)
@@ -96,5 +98,7 @@
 - [@Prime-5](https://github.com/Prime-5)
 
 - [@FLasH5858](https://github.com/FLasH5858)
+
+- [@BroCodeClan](https://github.com/BroCodeClan) :smile:
 
 - [@Helkat](https://github.com/Helkat)
