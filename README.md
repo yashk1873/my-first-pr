@@ -85,7 +85,7 @@
 
 - [@sagastha](https://github.com/sagastha)
 
-- [@Piyush](https://github.com/Piyush)
+- [@Piyush-Chetwani](https://github.com/Piyush-Chetwani)
 
 - [@hitanshu-mehta](https://github.com/hitanshu-mehta)
 
