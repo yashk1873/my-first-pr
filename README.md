@@ -25,6 +25,8 @@
 
 - [@pankajgoyal1](https://github.com/pankajgoyal1)
 
+- [@ruchika28ag](https://github.com/ruchika28ag)
+
 - [@JesusChrist0](https://github.com/jesuschrist0)
 
 - [@blair-d](https://github.com/blair-d)
