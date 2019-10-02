@@ -10,6 +10,7 @@
 3. Make a Pull Request (PR) via github.
 
 ## Contributors:
+- [@AlternateF4](https://github.com/AlternateF4)
 
 - [@ojaswa1942](https://github.com/ojaswa1942)
 
