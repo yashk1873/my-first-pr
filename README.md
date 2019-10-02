@@ -6,7 +6,7 @@
 1. Fork the repository....
 
 2. Append your username to the Contributers Section in this file in the following format:
-	`- [@username](https://github.com/username)`
+	`- [@ username](https://github.com/username)`
 3. Make a Pull Request (PR) via github.
 
 ## Contributors:
