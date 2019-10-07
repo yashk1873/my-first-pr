@@ -1,9 +1,9 @@
- This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2018. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
+. This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2018. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
 
 
 ### Instructions:
 
-1. Fork the repository....
+1. Fork the repository.....
 
 2. Append your username to the Contributers Section in this file in the following format:
 	`- [@ username](https://github.com/username)`
